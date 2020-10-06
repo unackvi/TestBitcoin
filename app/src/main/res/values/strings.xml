@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TestBitcoin</string>
+    <string name="currentPrice">1617.24</string>
+    <string name="baseCurr">Base Currency</string>
+    <string-array name="currCodes">
+        <item>"USD(US$)"</item>
+        <item>"EUR(€)"</item>
+        <item>"JPY(¥)"</item>
+        <item>"GBP(£)"</item>
+        <item>"AUD(A$)"</item>
+        <item>"CAD(C$)"</item>
+        <item>"CHF(CHF)"</item>
+        <item>"HKD(HK$)"</item>
+        <item>"RUB(₽)"</item>
+        <item>"TRY(₺)"</item>
+        <item>"SAR(﷼)"</item>
+
+    </string-array>
+</resources>
